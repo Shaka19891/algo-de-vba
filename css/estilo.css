@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+ul#atributos li, div.centrado{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px 0px;
+    padding: 5px 0px;
+}
+
+.codigo{
+    margin: 15px 0px;
+}
+
+button{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+input.num{
+    width: 40px;
+}
+
+input.medium{
+    width: 130px;
+}
+
+input{
+    text-align: center;
+}
